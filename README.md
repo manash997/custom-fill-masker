@@ -4,7 +4,7 @@ This repository contains the code and models for filling missing vibhaktis in a 
 2)Download the requirements:
 -pip install -r requirements.txt
 3)Run this python program:
--python3 pred_vibhakti.py sentence
+-python3 pred_vibhakti.py "sentence_with_mask_token"
 - for example:python3 pred_vibhakti.py एक समय <mask> बात है।
 
 4)Please Use this mask token syntax:<mask>
