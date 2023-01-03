@@ -2,7 +2,7 @@
 This repository contains the code and models for filling missing vibhaktis in a sentence.
 1)clone this repository
 2)Download the requirements:
--pip install -r requirements.txt
+-pip3 install -r requirements.txt
 3)Run this python program:
 -python3 pred_vibhakti.py "sentence_with_mask_token"
 - for example:python3 pred_vibhakti.py "एक समय <mask> बात है।"
