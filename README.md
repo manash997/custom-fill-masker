@@ -13,3 +13,6 @@ This repository contains the code and models for filling missing vibhaktis in a 
 -If no mask token in a sentence
 -If more than one mask token in a sentence.
 
+This repo also has ipython notebook for mask predictions when the input is a file containing a bulk of sentences.
+-Just run the cells in the sequence and it should work.
+
